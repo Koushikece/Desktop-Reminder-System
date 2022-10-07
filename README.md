@@ -8,7 +8,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash 
 > pip install plyer
 > pip install win10toast
-> 
 ```
 ### Import Modules
 ```
@@ -42,4 +41,4 @@ Please make sure to update tests as appropriate.
 ## License
 **This is created by Koushik**
 ## Thanks for visiting
-### Please help me to improve the notification system.
+Please help me to improve the notification system.
